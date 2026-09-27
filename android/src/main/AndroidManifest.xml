@@ -1,0 +1,3 @@
+<!-- The plugin declares no permissions. Apps add READ_SMS themselves, because
+     Google Play restricts it and each app must justify its own use. -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" />
